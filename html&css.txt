@@ -1,0 +1,94 @@
+Html
+elements
+   h1 tag
+   paragraph tag
+Attributes
+    hyperlink referance
+    image tag
+    width 
+    height
+    style
+Formatting
+     Bold text
+     Italic text
+     Deleted text
+     Underline text
+     Subscript text
+     Superscript text
+Styles
+     Bacground color
+     Text color
+     Fonts
+     Text size
+     Text Alignment
+Tables
+     table head
+     table row
+     table data
+List
+     ordered lists
+     unordered lists
+     list items
+Block
+     header
+     footer
+     div
+     form
+     table
+     h1-h6
+     video
+Inline
+     a
+     br
+    image
+    label
+    textarea
+    sub
+    sup
+
+
+CSS
+
+Colors
+   RGB
+   HEX
+   HSL
+Background color
+    background-color
+    background-image
+    background-repeat
+    background-attachment
+     background-position
+border
+    border style
+    border background
+    border width
+margins
+    margin-top
+    margin-right
+    margin-bottom
+    margin-left
+padding
+    padding-top
+    padding-right
+    padding-bottom
+    padding-left
+Box model
+    content
+    padding
+    border
+    margin
+Font style
+     font size
+Display
+    inline-block
+Position
+    relative
+    absolute
+video
+iframe
+
+
+     
+    
+ 
